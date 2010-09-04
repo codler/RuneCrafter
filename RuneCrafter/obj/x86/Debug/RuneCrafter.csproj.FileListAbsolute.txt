@@ -1,0 +1,19 @@
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\RuneCrafter.exe
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\RuneCrafter.pdb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Debug\RuneCrafter.exe
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Debug\RuneCrafter.pdb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Models\boxani.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\XNAnimation.dll
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Models\tail.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Fonts\Courier New.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\effects.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\DottedLine.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\MySql.Data.dll
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Models\leg.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Models\biped.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\RuneCrafter.exe.manifest
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\RuneCrafter.application
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Debug\RuneCrafter.exe.manifest
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Debug\RuneCrafter.application

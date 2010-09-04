@@ -1,0 +1,12 @@
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Release\Content\Models\boxani.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Release\Content\Models\tail.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Release\Content\Fonts\Courier New.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Release\Content\effects.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Release\Content\DottedLine.xnb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Release\RuneCrafter.exe
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Release\RuneCrafter.pdb
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Release\XNAnimation.dll
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Release\RuneCrafter.exe
+C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\obj\x86\Release\RuneCrafter.pdb

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="RuneCrafter.exe" version="1.0.0.4" publicKeyToken="8cf687e32cc2daf9" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Game.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="RuneCrafter" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="RuneCrafter.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="294912">
+      <assemblyIdentity name="MySql.Data" version="5.2.5.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>HEEfuXILHoMkRYc29cKgX7WY0+c=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RuneCrafter.exe" size="32768">
+      <assemblyIdentity name="RuneCrafter" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>/A+xvC/uW20A9eUdmGbtrAq+D9w=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="XNAnimation.dll" size="129024">
+      <assemblyIdentity name="XNAnimation" version="0.7.0.0" publicKeyToken="0C21691816F8C6D0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>kPGWLALj3gQVNrz25JMDf+wXDmA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Content\DottedLine.xnb" size="238">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hlmfeIIpO+JrOr9X2BOzZ/ke0TI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\effects.xnb" size="3472">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NOawsEeC82a1mbt6iWat7lnFfJE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Fonts\Courier New.xnb" size="8488">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/UQzpcm696c+N3Yp+uWl3iuzX+E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Models\biped.xnb" size="50272">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UlEnz7+s1SRo+rAuD2FRc32B27Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Models\boxani.xnb" size="1982">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZMeUSVZbXKXIYLaCEkVNIfH3v1M=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Models\leg.xnb" size="11720">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>++ZWtN0mWdlKR7fC9/CGweDhlOY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Models\tail.xnb" size="12242">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>M7fqyAEKp94kybMO6RnWloK/Cww=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Game.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/y21PfwGnUAkwpPwwaFuIIyWENo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="GameThumbnail.png" size="5734">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>diNvdcDpDtGEMuMQIHpkKK3qVHc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="metroroll.ico" size="3262">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CyHhae37B9ifRyVPR/4oaMFE3qk=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=YAP\codler" issuerKeyHash="435325d2441fe1746c1697996b03755eb18f0137" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>hfxlUlNgzcOAHa+Qnlr+FxzauQk=</DigestValue></Reference></SignedInfo><SignatureValue>dVzJhWb+MZ19QTrgLQQ6tlYiDdN3an/2fQRsrE8NPcbOCso201Bv9GaDI3L4cl6slSAU6rqoGjqdlzWLcv2z2VTC3PAkti0fJUZGnHkOkO8G5LJflByhMV1ZazSzxgSOpEuihkXJllzYG8yKGiCv7bodZT6oOiXWicXqueVXPYk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rjestBNR5IF+VXLV2PghYPp2X33LDfk/MeqDO02yUsfzq7B408Xu+UV0xtOoW13TB0GUXLW8uZaluVBpvvokw47ncwb2v8URejkikiEAOVertf9fiyU/v1SzmqnuOclT23X2ly4duwQkUB56DBp+24k/dub+yPbX9Ahswh0z8is=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="09b9da1c17fe5a9e90af1d80c3cd60535265fc85" Description="" Url=""><as:assemblyIdentity name="RuneCrafter.exe" version="1.0.0.4" publicKeyToken="8cf687e32cc2daf9" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=YAP\codler</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CmDUu7jPyuGs5YkSqrJMWoAK+N8=</DigestValue></Reference></SignedInfo><SignatureValue>PlbxLPoEM/6avRwwq+TOV3weDuu3NukYUfcbcAIym7kfL0OSm8hdSD5KbheZN9KrDzHiljTtwGQPuBkhy1tTbuGpQc03Etr2YaO07HgBoIuV3BSinNBBvXL6Z0GQAuwiPnR0z/XWXwum9nj6D9s8eYZiIVhFgf0Wx5EqGzfXFH0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rjestBNR5IF+VXLV2PghYPp2X33LDfk/MeqDO02yUsfzq7B408Xu+UV0xtOoW13TB0GUXLW8uZaluVBpvvokw47ncwb2v8URejkikiEAOVertf9fiyU/v1SzmqnuOclT23X2ly4duwQkUB56DBp+24k/dub+yPbX9Ahswh0z8is=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBuTCCASagAwIBAgIQe/yIQOSckptEZprCjOPTyzAJBgUrDgMCHQUAMB8xHTAbBgNVBAMeFABZAEEAUABcAGMAbwBkAGwAZQByMB4XDTA5MDMyNTE3MTYwNVoXDTEwMDMyNTIzMTYwNVowHzEdMBsGA1UEAx4UAFkAQQBQAFwAYwBvAGQAbABlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK43rLQTUeSBflVy1dj4IWD6dl99yw35PzHqgztNslLH86uweNPF7vlFdMbTqFtd0wdBlFy1vLmWpblQab76JMOO53MG9r/FEXo5IpIhADlXq7X/X4slP79Us5qp7jnJU9t19pcuHbsEJFAeegwaftuJP3bm/sj21/QIbMIdM/IrAgMBAAEwCQYFKw4DAh0FAAOBgQAY503RAufjCTg/tg+Hlcnt0LzdFISsFpJwxFoAcKRVLN/k86VRppjjStipFHswlqN4eonbHNtp13fUOgqQ0dt03VTE6RwhC6ycKc5reVVGXvD1Bv1uvvgnv/b8W4cTBIuSg46UHcsSNy1qYoCt8qOB2C6mktwxm+iRA9J05FaC7g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\boxani.X</Source>
+      <Name>Models\boxani</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Models\boxani.xnb</Output>
+      <Time>2009-02-05T21:18:55.921875+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\boxani_0.xml</Key>
+        <Value>2009-04-26T20:50:41.609375+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\tail.X</Source>
+      <Name>Models\tail</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Models\tail.xnb</Output>
+      <Time>2009-02-06T17:17:56.265625+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\tail_0.xml</Key>
+        <Value>2009-04-26T20:50:42.03125+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\leg.X</Source>
+      <Name>Models\leg</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Models\leg.xnb</Output>
+      <Time>2009-03-02T18:40:12.0625+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\leg_0.xml</Key>
+        <Value>2009-04-26T20:50:42.25+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\biped.X</Source>
+      <Name>Models\biped</Name>
+      <Importer>XImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Models\biped.xnb</Output>
+      <Time>2009-03-21T13:26:38.40625+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\biped_0.xml</Key>
+        <Value>2009-04-26T20:50:42.828125+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Fonts\Courier New.spritefont</Source>
+      <Name>Fonts\Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\Fonts\Courier New.xnb</Output>
+      <Time>2009-02-06T22:57:41.53125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>effects.fx</Source>
+      <Name>effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\effects.xnb</Output>
+      <Time>2009-02-07T16:26:33.40625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>DottedLine.png</Source>
+      <Name>DottedLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\DottedLine.xnb</Output>
+      <Time>2009-02-07T20:28:06.09375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\boxani.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\boxani_0.xml</Output>
+      <Time>2009-02-05T21:18:55.921875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\tail.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\tail_0.xml</Output>
+      <Time>2009-02-06T17:17:56.265625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\leg.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\leg_0.xml</Output>
+      <Time>2009-03-02T18:40:12.0625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\biped.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\biped_0.xml</Output>
+      <Time>2009-03-21T13:26:38.40625+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\codler\My Documents\Visual Studio 2008\Projects\RuneCrafter\RuneCrafter\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Documents and Settings\codler\My Documents\XNAnimationPipeline.dll</Key>
+        <Value>2009-01-14T17:55:13.3125+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T18:42:32+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T18:43:28+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T18:43:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T18:48:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T18:48:50+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-11-09T09:21:37.25+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
